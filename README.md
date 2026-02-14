@@ -3,7 +3,7 @@
 ## Projects
 
 ### SKU Intelligence Platform — Dashboard
-[https://github.com/Ribas55/nome-do-repo](https://github.com/Ribas55/Dashboard.git)
+(https://github.com/Ribas55/Dashboard.git)
 
 
 An interactive **Streamlit dashboard** for sales analysis, demand classification, and forecasting at **SKU level**, designed to support **inventory planning, production decisions, and demand forecasting improvement** in a multi-SKU environment.
